@@ -1,5 +1,5 @@
 @echo off
-title Test Popup Spam
+title HACKED
 
 :loop
 powershell -command "Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('WARNING: Your PC has been hacked!')"
